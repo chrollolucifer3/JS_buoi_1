@@ -1,0 +1,32 @@
+body{
+    padding: 0;
+    margin: 0 auto;
+    text-align: center;
+}
+
+*{
+    box-sizing: border-box;
+}
+
+input{
+    margin-right: 10px;
+}
+
+.check{
+    padding: 10px;
+    margin: 10px auto;
+    width: 500px;
+    box-shadow: 5px 5px 5px #999999;
+}
+
+button{ 
+    padding: 10px;
+    background-color: rgb(250, 142, 19);
+    border-color: rgb(252, 135, 2);
+    font-weight: 700;
+    margin: 10px;
+}
+
+.check:hover{
+    background-color: rgb(15, 170, 241);
+}
